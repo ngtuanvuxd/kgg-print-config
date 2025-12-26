@@ -2,7 +2,7 @@ ENABLE_TRACKING|no
 TRIAL_LIMIT|150
 CHECK_INTERVAL|24
 BUY_LINK|https://gumroad.com/l/xjqjw
-STATUS|🔥 Áp dụng khuyến mãi 100% Khi kích hoạt trước 01/01/2026 🔥
+STATUS|🔥 Miễn phí 100% khi kích hoạt trước 01/01/2026 🔥
 LATEST_VERSION|1.0.2
 UPDATE_LINK|https://kgg.io.vn/kgg-pro-print-setup
 ZALO|https://zalo.me/g/wfkami189
