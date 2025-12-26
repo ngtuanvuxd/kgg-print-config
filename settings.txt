@@ -1,4 +1,4 @@
-TRIAL_LIMIT|60
+TRIAL_LIMIT|80
 CHECK_INTERVAL|24
 BUY_LINK|https://gumroad.com/l/xjqjw
 STATUS|🔥 Đang giảm giá 50% trước 01/01/2026 🔥🔥 Đang giảm giá 50% trước 01/01/2026 🔥🔥 Đang giảm giá 50% trước 01/01/2026 🔥
