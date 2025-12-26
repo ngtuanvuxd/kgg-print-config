@@ -1,7 +1,7 @@
 TRIAL_LIMIT|120
 CHECK_INTERVAL|24
 BUY_LINK|https://gumroad.com/l/xjqjw
-STATUS|🔥 Đang giảm giá 50% trước 01/01/2026 🔥Nhanh tay
+STATUS|🔥 Áp dụng khuyến mãi 100% Khi kích hoạt trước 01/01/2026 🔥
 LATEST_VERSION|1.0.2
 UPDATE_LINK|https://kgg.io.vn/kgg-pro-print-setup
 ZALO|https://zalo.me/g/wfkami189
