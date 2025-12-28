@@ -2,8 +2,8 @@ ENABLE_TRACKING|true
 TRIAL_LIMIT|150
 CHECK_INTERVAL|0.02
 BUY_LINK|https://gumroad.com/l/xjqjw
-STATUS|- Tất cả các tính năng liên quan in ấn và hậu kỳ PDF được mở khóa vĩnh viễn. \n- Tính năng nâng cao cần nâng cấp tài khoản để sử dụng. \n Tính năng nâng cao bao gồm: Đồng bộ, Tạo danh mục, Tạo layout. \n- Mọi ý kiến đóng góp hoặc yêu cầu hỗ trợ vui lòng liên hệ với chúng tôi.
-STATUS_2|KGG: Tất cả tính năng liên quan in ấn được miễn phí vĩnh viễn
+STATUS|- Tất cả các tính năng liên quan in ấn và hậu kỳ PDF được mở khóa vĩnh viễn. \n- Tính năng nâng cao cần nâng cấp tài khoản để sử dụng. \n Tính năng nâng cao bao gồm: Đồng bộ, Tạo danh mục, Tạo layout.
+STATUS_2|Miễn phí 100% cho tài khoản nâng cấp trước ngày 01/01/2026
 LATEST_VERSION|1.0.1
 UPDATE_LINK|https://kgg.io.vn/kgg-pro-print-setup
 ZALO|https://zalo.me/g/wfkami189
