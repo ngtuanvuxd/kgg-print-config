@@ -1,6 +1,6 @@
 ENABLE_TRACKING|true
 TRIAL_LIMIT|150
-CHECK_INTERVAL|0.1
+CHECK_INTERVAL|0.05
 BUY_LINK|https://gumroad.com/l/xjqjw
 STATUS|- Tất cả các tính năng liên quan in ấn và hậu kỳ PDF được mở khóa vĩnh viễn. \n- Tính năng nâng cao cần nâng cấp tài khoản để sử dụng. \n Tính năng nâng cao bao gồm: Đồng bộ, Tạo danh mục, Tạo layout.
 STATUS_EN|- All printing and PDF post-processing features are permanently unlocked.\n- Advanced features require an upgraded account.\n  Advanced features include: Sync, Create List, Create Layout.
