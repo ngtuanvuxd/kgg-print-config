@@ -3,11 +3,11 @@ TRIAL_LIMIT|150
 CHECK_INTERVAL|0.1
 BUY_LINK|https://gumroad.com/l/xjqjw
 STATUS|- Tất cả các tính năng liên quan in ấn và hậu kỳ PDF được mở khóa vĩnh viễn. \n- Tính năng nâng cao cần nâng cấp tài khoản để sử dụng. \n Tính năng nâng cao bao gồm: Đồng bộ, Tạo danh mục, Tạo layout.
-STATUS_EN|- All PDF printing and post-processing features are permanently unlocked. - Advanced features require an account upgrade to use. Advanced features include: Synchronization, Catalog creation, Layout creation.
+STATUS_EN|- All printing and PDF post-processing features are permanently unlocked.\n- Advanced features require an upgraded account.\n  Advanced features include: Sync, Create List, Create Layout.
 STATUS_2|Miễn phí 100% cho tài khoản nâng cấp trước ngày 01/01/2026
 STATUS_2_EN|100% free for account upgrades made before January 1, 2026.
 STATUS_2_LINK|https://www.youtube.com/watch?v=uEGlq8MRgRo
-LATEST_VERSION|1.0.1
+LATEST_VERSION|1.0.2
 UPDATE_LINK|https://kgg.io.vn/kgg-pro-print-setup
 ZALO|https://zalo.me/g/wfkami189
 FACEBOOK|https://www.facebook.com/vu.kgg
