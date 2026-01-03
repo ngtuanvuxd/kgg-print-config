@@ -1,10 +1,10 @@
 TRIAL_LIMIT|150
 CHECK_INTERVAL|0.05
-CLICK_BUY_TRACKING|OFF
+CLICK_BUY_TRACKING|ON
 CLICK_SHOP_TRACKING|ON
 CLICK_UPDATE_TRACKING|ON
-CLICK_YOUTUBE_TRACKING|OFF
-CLICK_STATUS_TRACKING|OFF
+CLICK_YOUTUBE_TRACKING|ON
+CLICK_STATUS_TRACKING|ON
 CLICK_STATUS_2_TRACKING|ON
 LATEST_VERSION|1.0.1
 UPDATE_LINK|https://kgg.io.vn/kgg-pro-print-setup
@@ -16,7 +16,7 @@ MAIN_STATUS_LINK|https://www.youtube.com/watch?v=uEGlq8MRgRo
 MAIN_STATUS_MODE|FREE
 STATUS|- Tất cả các tính năng liên quan in ấn và hậu kỳ PDF được mở khóa vĩnh viễn. \n- Tính năng nâng cao cần nâng cấp tài khoản để sử dụng. \n Tính năng nâng cao bao gồm: Đồng bộ, Tạo danh mục, Tạo layout.
 STATUS_EN|- All printing and PDF post-processing features are permanently unlocked.\n- Advanced features require an upgraded account.\n  Advanced features include: Sync, Create List, Create Layout.
-STATUS_MODE|FREE
+STATUS_MODE|ALL
 STATUS_2|"Miễn phí 100% cho tài khoản nâng cấp trước ngày 01/01/2026"
 STATUS_2_EN|"100% free for account upgrades made before January 1, 2026."
 STATUS_2_LINK|https://www.youtube.com/watch?v=uEGlq8MRgRo
