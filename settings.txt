@@ -7,10 +7,11 @@ STATUS_EN|- All printing and PDF post-processing features are permanently unlock
 STATUS_2|"Miễn phí 100% cho tài khoản nâng cấp trước ngày 01/01/2026"
 STATUS_2_EN|"100% free for account upgrades made before January 1, 2026."
 STATUS_2_LINK|https://www.youtube.com/watch?v=uEGlq8MRgRo
-MAIN_STATUS_MODE|FREE
+STATUS_2_MODE|FREE
 MAIN_STATUS|"Miễn phí 100% cho tài khoản nâng cấp trước ngày 01/01/2026"
 MAIN_STATUS_EN|"100% free for account upgrades made before January 1, 2026."
 MAIN_STATUS_LINK|https://www.youtube.com/watch?v=uEGlq8MRgRo
+MAIN_STATUS_MODE|FREE
 LATEST_VERSION|1.0.2
 UPDATE_LINK|https://kgg.io.vn/kgg-pro-print-setup
 ZALO|https://zalo.me/g/wfkami189
