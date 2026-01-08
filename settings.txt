@@ -16,11 +16,11 @@ BUY_LINK|https://gumroad.com/l/kggprint
 SHOP_LINK|https://gumroad.com/l/kggprint
 TRAY_TEXT|"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"
 TRAY_TEXT_EN|"Upgrade your account for free before February 1, 2026."
-TRAY_LINK|https://www.youtube.com/watch?v=uEGlq8MRgRo
+TRAY_LINK|https://gumroad.com/l/kggprint
 TRAY_MODE|FREE
 MAIN_STATUS|"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"
 MAIN_STATUS_EN|"Upgrade your account for free before February 1, 2026."
-MAIN_STATUS_LINK|https://www.youtube.com/watch?v=uEGlq8MRgRo
+MAIN_STATUS_LINK|https://gumroad.com/l/kggprint
 MAIN_STATUS_MODE|OFF
 STATUS|- Tất cả các tính năng liên quan in ấn và hậu kỳ PDF được mở khóa vĩnh viễn. \n- Tính năng nâng cao cần nâng cấp tài khoản để sử dụng. \n Tính năng nâng cao bao gồm: Đồng bộ, Tạo danh mục, Tạo layout.
 STATUS_EN|- All printing and PDF post-processing features are permanently unlocked.\n- Advanced features require an upgraded account.\n  Advanced features include: Sync, Create List, Create Layout.
