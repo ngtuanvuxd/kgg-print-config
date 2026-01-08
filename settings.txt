@@ -14,6 +14,10 @@ LATEST_VERSION|1.0.0
 UPDATE_LINK|https://github.com/ngtuanvuxd/kgg-print-config/releases/download/v1.0.0/KGG_PRINT_SETUP_1.0.0.zip
 BUY_LINK|https://gumroad.com/l/kggprint
 SHOP_LINK|https://gumroad.com/l/kggprint
+TRAY_TEXT|"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"
+TRAY_TEXT_EN|"Upgrade your account for free before February 1, 2026."
+TRAY_LINK|https://www.youtube.com/watch?v=uEGlq8MRgRo
+TRAY_MODE|FREE
 MAIN_STATUS|"Nâng cấp tài khoản miễn phí trước ngày 01/02/2026"
 MAIN_STATUS_EN|"Upgrade your account for free before February 1, 2026."
 MAIN_STATUS_LINK|https://www.youtube.com/watch?v=uEGlq8MRgRo
